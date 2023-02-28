@@ -1,2 +1,0 @@
-# _JS_CONSOLE
-한국정보교육원_JS_CONSOLE
